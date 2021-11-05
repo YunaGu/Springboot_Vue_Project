@@ -1,19 +1,25 @@
 # springboot_vue_demo
 
-## Project setup
-```
-npm install
-```
+## introduction
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It's management website demo.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## function
+    - the front page shows data from database
+    - we can add data to database
+    - a pagination (import from element plus)
+    
+## framework
+    - Front-end: Vue 3.0
+    - Back-end: Spring boot
+    
+    - other libs:
+        - element plus
+        - myBatis
+        - axios
+        - ...
+        
+## to be continue
+    - delete
+    - import and export into xlsx
+    
