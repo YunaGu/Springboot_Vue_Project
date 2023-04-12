@@ -2,7 +2,7 @@
 
 ## introduction
 
-It's management website demo.
+It's a demo of a management website.
 
 ## function
     - the front page shows data from database
